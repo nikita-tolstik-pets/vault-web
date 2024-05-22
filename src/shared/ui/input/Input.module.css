@@ -1,0 +1,5 @@
+.input {
+  background:
+    linear-gradient(theme(colors.dark.900), theme(colors.dark.900)) padding-box,
+    linear-gradient(to right, #ff577f, #4b5dff) border-box;
+}
